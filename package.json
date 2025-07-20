@@ -29,7 +29,8 @@
     "typescript": "^5.8.3"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "keywords": [
     "xcrap",
