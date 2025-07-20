@@ -14,7 +14,7 @@ npm i @xcrap/api
 
 If you're using a different server based on Xcrap Cloud (yes, we're open source), change the `baseUrl` in the `Xcrap` constructor.
 
-\<a href="[https://www.buymeacoffee.com/marcuth](https://www.buymeacoffee.com/marcuth)" target="\_blank"\>\<img src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)" alt="Buy Me A Coffee" style="height: 60px \!important;width: 217px \!important;" \>\</a\>
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/marcuth)
 
 ### Authentication
 
