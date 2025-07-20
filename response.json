@@ -1,0 +1,2683 @@
+{
+    "metadata": {
+        "request": {
+            "url": "https://deetlist.com/dragoncity/events/race/",
+            "startTime": 1752991728650,
+            "endTime": 1752991730134,
+            "duration": 1484,
+            "hadRetries": false,
+            "attempts": 1,
+            "userAgent": "Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+        },
+        "response": {
+            "status": 200,
+            "statusText": "OK",
+            "contentType": "text/html; charset=UTF-8"
+        },
+        "parsing": {
+            "startTime": 1752991730134,
+            "endTime": 1752991730597,
+            "duration": 463
+        }
+    },
+    "data": {
+        "laps": [
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "4",
+                                "poolSize": "4",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "5",
+                                "poolSize": "5",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "4",
+                                "poolSize": "4",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "6",
+                                "poolSize": "5",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "5 minutes",
+                                "spawnTimeForAll": "5 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "2",
+                                "poolSize": "2",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "15 minutes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "8",
+                                "poolSize": "8",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "6",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "8",
+                                "poolSize": "8",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "1",
+                                "poolSize": "1",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "7",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "19 minutes",
+                                "spawnTimeForAll": "19 minutes"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "2",
+                                "poolSize": "2",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "15 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "10",
+                                "poolSize": "8",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "19 minutes",
+                                "spawnTimeForAll": "38 minutes"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "2",
+                                "poolSize": "2",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "11",
+                                "poolSize": "11",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "8",
+                                "poolSize": "8",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "2",
+                                "poolSize": "2",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "9",
+                                "poolSize": "9",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "3",
+                                "poolSize": "3",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "45 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "12",
+                                "poolSize": "9",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "10 minutes",
+                                "spawnTimeForAll": "30 minutes"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "10",
+                                "poolSize": "8",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "15 minutes",
+                                "spawnTimeForAll": "30 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "3",
+                                "poolSize": "3",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "21",
+                                "poolSize": "21",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "14",
+                                "poolSize": "14",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "4",
+                                "poolSize": "4",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "60 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "4",
+                                "poolSize": "4",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "16",
+                                "poolSize": "10",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "16 minutes",
+                                "spawnTimeForAll": "1hr 36min"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "14",
+                                "poolSize": "9",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "19 minutes",
+                                "spawnTimeForAll": "1hr 35min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "5",
+                                "poolSize": "5",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "1hr 15min"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "12",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "31 minutes",
+                                "spawnTimeForAll": "3hr 6min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "6",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "13",
+                                "poolSize": "13",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "17",
+                                "poolSize": "17",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "35",
+                                "poolSize": "26",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "7 minutes",
+                                "spawnTimeForAll": "1hr 3min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "2",
+                                "poolSize": "2",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "2",
+                                "poolSize": "2",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "4",
+                                "poolSize": "4",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "5 Hours"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "14",
+                                "poolSize": "9",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "16 minutes",
+                                "spawnTimeForAll": "1hr 20min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "19",
+                                "poolSize": "19",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "20",
+                                "poolSize": "20",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "29",
+                                "poolSize": "29",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "3",
+                                "poolSize": "2",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "60 minutes",
+                                "spawnTimeForAll": "60 minutes"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "21",
+                                "poolSize": "16",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "12 minutes",
+                                "spawnTimeForAll": "60 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "3",
+                                "poolSize": "3",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "6",
+                                "poolSize": "6",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "7 Hours"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "3",
+                                "poolSize": "2",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2 Hours",
+                                "spawnTimeForAll": "2 Hours"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "4",
+                                "poolSize": "3",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2 Hours",
+                                "spawnTimeForAll": "2 Hours"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "23",
+                                "poolSize": "23",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "23",
+                                "poolSize": "23",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "16",
+                                "poolSize": "16",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "5",
+                                "poolSize": "5",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "6 Hours"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "8",
+                                "poolSize": "7",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "27 minutes",
+                                "spawnTimeForAll": "27 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "3",
+                                "poolSize": "3",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "25",
+                                "poolSize": "19",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "9 minutes",
+                                "spawnTimeForAll": "54 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "4",
+                                "poolSize": "3",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 47min",
+                                "spawnTimeForAll": "1hr 47min"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "5",
+                                "poolSize": "3",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "54 minutes",
+                                "spawnTimeForAll": "1hr 48min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "17",
+                                "poolSize": "17",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "26",
+                                "poolSize": "26",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "53",
+                                "poolSize": "53",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "4",
+                                "poolSize": "4",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "5",
+                                "poolSize": "5",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "6 Hours"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "57",
+                                "poolSize": "50",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "10 minutes",
+                                "spawnTimeForAll": "1hr 10min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "3",
+                                "poolSize": "3",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "5",
+                                "poolSize": "3",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 5min",
+                                "spawnTimeForAll": "2hr 10min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "18",
+                                "poolSize": "18",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "29",
+                                "poolSize": "29",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "7",
+                                "poolSize": "7",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "37",
+                                "poolSize": "32",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "7 minutes",
+                                "spawnTimeForAll": "35 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "6",
+                                "poolSize": "6",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "7 Hours"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "31",
+                                "poolSize": "20",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "7 minutes",
+                                "spawnTimeForAll": "1hr 17min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "10",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "35 minutes",
+                                "spawnTimeForAll": "2hr 20min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "39",
+                                "poolSize": "39",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "65",
+                                "poolSize": "65",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "32",
+                                "poolSize": "32",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "6",
+                                "poolSize": "6",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "12 Hours"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "4",
+                                "poolSize": "4",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "21",
+                                "poolSize": "18",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "6 minutes",
+                                "spawnTimeForAll": "18 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "4",
+                                "poolSize": "3",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "32 minutes",
+                                "spawnTimeForAll": "32 minutes"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "6",
+                                "poolSize": "5",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "32 minutes",
+                                "spawnTimeForAll": "32 minutes"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "34",
+                                "poolSize": "34",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "22",
+                                "poolSize": "22",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "5",
+                                "poolSize": "5",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "23",
+                                "poolSize": "23",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "70",
+                                "poolSize": "61",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "17 minutes",
+                                "spawnTimeForAll": "2hr 33min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "36",
+                                "poolSize": "27",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "17 minutes",
+                                "spawnTimeForAll": "2hr 33min"
+                            },
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "4",
+                                "poolSize": "4",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "7",
+                                "poolSize": "7",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "13hr 20min"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "24",
+                                "poolSize": "15",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "15 minutes",
+                                "spawnTimeForAll": "2hr 15min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "12",
+                                "poolSize": "12",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "76",
+                                "poolSize": "76",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "25",
+                                "poolSize": "22",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "50 minutes",
+                                "spawnTimeForAll": "2hr 30min"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "38",
+                                "poolSize": "33",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "30 minutes",
+                                "spawnTimeForAll": "2hr 30min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "4",
+                                "poolSize": "4",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "5",
+                                "poolSize": "4",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2hr 30min",
+                                "spawnTimeForAll": "2hr 30min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "7",
+                                "poolSize": "7",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "13hr 20min"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "26",
+                                "poolSize": "16",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "15 minutes",
+                                "spawnTimeForAll": "2hr 30min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "10",
+                                "poolSize": "10",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "40",
+                                "poolSize": "40",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "5",
+                                "poolSize": "5",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "82",
+                                "poolSize": "62",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "8 minutes",
+                                "spawnTimeForAll": "2hr 40min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "7",
+                                "poolSize": "4",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 7min",
+                                "spawnTimeForAll": "3hr 21min"
+                            },
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "6",
+                                "poolSize": "4",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 40min",
+                                "spawnTimeForAll": "3hr 20min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "27",
+                                "poolSize": "17",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "17 minutes",
+                                "spawnTimeForAll": "2hr 50min"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "7",
+                                "poolSize": "7",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "13hr 20min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "56",
+                                "poolSize": "56",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "83",
+                                "poolSize": "73",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "4 minutes",
+                                "spawnTimeForAll": "40 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "5",
+                                "poolSize": "5",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "44",
+                                "poolSize": "33",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "7 minutes",
+                                "spawnTimeForAll": "1hr 17min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "29",
+                                "poolSize": "18",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "14 minutes",
+                                "spawnTimeForAll": "2hr 34min"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "12",
+                                "poolSize": "12",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "20 Hours"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "14",
+                                "poolSize": "7",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 12min",
+                                "spawnTimeForAll": "8hr 24min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "47",
+                                "poolSize": "47",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "30",
+                                "poolSize": "30",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "44",
+                                "poolSize": "33",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "7 minutes",
+                                "spawnTimeForAll": "1hr 17min"
+                            },
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "5",
+                                "poolSize": "5",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "62",
+                                "poolSize": "47",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "10 minutes",
+                                "spawnTimeForAll": "2hr 30min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "8",
+                                "poolSize": "8",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "16 Hours"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "7",
+                                "poolSize": "4",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "50 minutes",
+                                "spawnTimeForAll": "2hr 30min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "6",
+                                "poolSize": "3",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 57min",
+                                "spawnTimeForAll": "5hr 51min"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "46",
+                                "poolSize": "23",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "16 minutes",
+                                "spawnTimeForAll": "6hr 8min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "50",
+                                "poolSize": "50",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "32",
+                                "poolSize": "32",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "94",
+                                "poolSize": "71",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "4 minutes",
+                                "spawnTimeForAll": "1hr 32min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "3",
+                                "poolSize": "3",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "9hr 20min"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "33",
+                                "poolSize": "25",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "19 minutes",
+                                "spawnTimeForAll": "2hr 32min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "6",
+                                "poolSize": "6",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "5",
+                                "poolSize": "5",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "12 Hours"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "6",
+                                "poolSize": "3",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 40min",
+                                "spawnTimeForAll": "5 Hours"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "53",
+                                "poolSize": "27",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "12 minutes",
+                                "spawnTimeForAll": "5hr 12min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "49",
+                                "poolSize": "49",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "34",
+                                "poolSize": "34",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "111",
+                                "poolSize": "83",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "3 minutes",
+                                "spawnTimeForAll": "1hr 24min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "8",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 15min",
+                                "spawnTimeForAll": "2hr 30min"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "51",
+                                "poolSize": "38",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "12 minutes",
+                                "spawnTimeForAll": "2hr 36min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "6",
+                                "poolSize": "6",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "7",
+                                "poolSize": "5",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "4hr 10min",
+                                "spawnTimeForAll": "8hr 20min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "8",
+                                "poolSize": "8",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "16 Hours"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "35",
+                                "poolSize": "18",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "42 minutes",
+                                "spawnTimeForAll": "11hr 54min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "7",
+                                "poolSize": "7",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "36",
+                                "poolSize": "36",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "106",
+                                "poolSize": "93",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "6 minutes",
+                                "spawnTimeForAll": "1hr 18min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "8",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 40min",
+                                "spawnTimeForAll": "3hr 20min"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "59",
+                                "poolSize": "44",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "14 minutes",
+                                "spawnTimeForAll": "3hr 30min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "7",
+                                "poolSize": "4",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "3hr 20min",
+                                "spawnTimeForAll": "10 Hours"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "55",
+                                "poolSize": "35",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "30 minutes",
+                                "spawnTimeForAll": "10 Hours"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "10",
+                                "poolSize": "10",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "18hr 40min"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "37",
+                                "poolSize": "19",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "34 minutes",
+                                "spawnTimeForAll": "10hr 12min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "57",
+                                "poolSize": "57",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "62",
+                                "poolSize": "62",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "76",
+                                "poolSize": "67",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "6 minutes",
+                                "spawnTimeForAll": "54 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "59",
+                                "poolSize": "44",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "4 minutes",
+                                "spawnTimeForAll": "60 minutes"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "10",
+                                "poolSize": "10",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "18hr 40min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "6",
+                                "poolSize": "6",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "39",
+                                "poolSize": "25",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "29 minutes",
+                                "spawnTimeForAll": "6hr 46min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "9",
+                                "poolSize": "5",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2hr 55min",
+                                "spawnTimeForAll": "11hr 40min"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "65",
+                                "poolSize": "33",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "22 minutes",
+                                "spawnTimeForAll": "11hr 44min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "68",
+                                "poolSize": "68",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "40",
+                                "poolSize": "40",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "121",
+                                "poolSize": "106",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "4 minutes",
+                                "spawnTimeForAll": "60 minutes"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "8",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 40min",
+                                "spawnTimeForAll": "3hr 20min"
+                            },
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "6",
+                                "poolSize": "6",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "9",
+                                "poolSize": "9",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "17hr 20min"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "9",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 15min",
+                                "spawnTimeForAll": "3hr 45min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "8",
+                                "poolSize": "4",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "3hr 8min",
+                                "spawnTimeForAll": "12hr 32min"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "41",
+                                "poolSize": "21",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "38 minutes",
+                                "spawnTimeForAll": "12hr 40min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "42",
+                                "poolSize": "42",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "71",
+                                "poolSize": "71",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "9",
+                                "poolSize": "7",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "30 minutes",
+                                "spawnTimeForAll": "60 minutes"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "7",
+                                "poolSize": "7",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "14hr 40min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "43",
+                                "poolSize": "27",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "15 minutes",
+                                "spawnTimeForAll": "4 Hours"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "62",
+                                "poolSize": "39",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "11 minutes",
+                                "spawnTimeForAll": "4hr 13min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "9",
+                                "poolSize": "5",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2hr 5min",
+                                "spawnTimeForAll": "8hr 20min"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "10",
+                                "poolSize": "5",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 40min",
+                                "spawnTimeForAll": "8hr 20min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "7",
+                                "poolSize": "7",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "74",
+                                "poolSize": "28",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "20 minutes",
+                                "spawnTimeForAll": "15hr 20min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "88",
+                                "poolSize": "88",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "77",
+                                "poolSize": "58",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "13 minutes",
+                                "spawnTimeForAll": "4hr 7min"
+                            },
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "9",
+                                "poolSize": "7",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2 Hours",
+                                "spawnTimeForAll": "4 Hours"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "64",
+                                "poolSize": "40",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "21 minutes",
+                                "spawnTimeForAll": "8hr 24min"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "10",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2hr 5min",
+                                "spawnTimeForAll": "8hr 20min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "7",
+                                "poolSize": "7",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "14hr 40min"
+                            },
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "7",
+                                "poolSize": "7",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "66",
+                                "poolSize": "33",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "31 minutes",
+                                "spawnTimeForAll": "17hr 3min"
+                            },
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "10",
+                                "poolSize": "5",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "3hr 20min",
+                                "spawnTimeForAll": "16hr 40min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "136",
+                                "poolSize": "136",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "45",
+                                "poolSize": "40",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "20 minutes",
+                                "spawnTimeForAll": "1hr 40min"
+                            },
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "7",
+                                "poolSize": "7",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "139",
+                                "poolSize": "104",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "6 minutes",
+                                "spawnTimeForAll": "3hr 30min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "80",
+                                "poolSize": "48",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "13 minutes",
+                                "spawnTimeForAll": "6hr 56min"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "10",
+                                "poolSize": "10",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "18hr 40min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "10",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "3hr 20min",
+                                "spawnTimeForAll": "13hr 20min"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "46",
+                                "poolSize": "29",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "48 minutes",
+                                "spawnTimeForAll": "13hr 36min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "143",
+                                "poolSize": "143",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "83",
+                                "poolSize": "62",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "5 minutes",
+                                "spawnTimeForAll": "1hr 45min"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "47",
+                                "poolSize": "35",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "9 minutes",
+                                "spawnTimeForAll": "1hr 48min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "8",
+                                "poolSize": "8",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "74",
+                                "poolSize": "47",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "8 minutes",
+                                "spawnTimeForAll": "3hr 36min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "11",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 20min",
+                                "spawnTimeForAll": "6hr 40min"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "9",
+                                "poolSize": "9",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "17hr 20min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "10",
+                                "poolSize": "5",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2hr 40min",
+                                "spawnTimeForAll": "13hr 20min"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "86",
+                                "poolSize": "43",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "19 minutes",
+                                "spawnTimeForAll": "13hr 37min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "177",
+                                "poolSize": "177",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "75",
+                                "poolSize": "56",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "6 minutes",
+                                "spawnTimeForAll": "1hr 54min"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "11",
+                                "poolSize": "8",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "34 minutes",
+                                "spawnTimeForAll": "1hr 42min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "8",
+                                "poolSize": "8",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "10",
+                                "poolSize": "5",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "40 minutes",
+                                "spawnTimeForAll": "3hr 20min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "48",
+                                "poolSize": "24",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "17 minutes",
+                                "spawnTimeForAll": "6hr 48min"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "9",
+                                "poolSize": "9",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "17hr 20min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "77",
+                                "poolSize": "39",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "22 minutes",
+                                "spawnTimeForAll": "13hr 56min"
+                            },
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "11",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2hr 40min",
+                                "spawnTimeForAll": "13hr 20min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "49",
+                                "poolSize": "49",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "79",
+                                "poolSize": "79",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "182",
+                                "poolSize": "160",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "5 minutes",
+                                "spawnTimeForAll": "1hr 50min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "81",
+                                "poolSize": "61",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "10 minutes",
+                                "spawnTimeForAll": "3hr 20min"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "9",
+                                "poolSize": "9",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "17hr 20min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "50",
+                                "poolSize": "30",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "20 minutes",
+                                "spawnTimeForAll": "6hr 40min"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "12",
+                                "poolSize": "7",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 20min",
+                                "spawnTimeForAll": "6hr 40min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "11",
+                                "poolSize": "7",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "3hr 20min",
+                                "spawnTimeForAll": "13hr 20min"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "83",
+                                "poolSize": "52",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "26 minutes",
+                                "spawnTimeForAll": "13hr 26min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "85",
+                                "poolSize": "85",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "52",
+                                "poolSize": "52",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "24",
+                                "poolSize": "21",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "34 minutes",
+                                "spawnTimeForAll": "1hr 42min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "8",
+                                "poolSize": "8",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "94",
+                                "poolSize": "71",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "9 minutes",
+                                "spawnTimeForAll": "3hr 27min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "9",
+                                "poolSize": "9",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "17hr 20min"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "87",
+                                "poolSize": "52",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "12 minutes",
+                                "spawnTimeForAll": "7 Hours"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "11",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2hr 40min",
+                                "spawnTimeForAll": "13hr 20min"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "53",
+                                "poolSize": "27",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "31 minutes",
+                                "spawnTimeForAll": "13hr 26min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "194",
+                                "poolSize": "194",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "107",
+                                "poolSize": "94",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "8 minutes",
+                                "spawnTimeForAll": "1hr 44min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "8",
+                                "poolSize": "8",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "12",
+                                "poolSize": "9",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 7min",
+                                "spawnTimeForAll": "3hr 21min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "89",
+                                "poolSize": "53",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "12 minutes",
+                                "spawnTimeForAll": "7hr 12min"
+                            },
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "9",
+                                "poolSize": "9",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "17hr 20min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "12",
+                                "poolSize": "6",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "2hr 14min",
+                                "spawnTimeForAll": "13hr 24min"
+                            },
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "100",
+                                "poolSize": "50",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "16 minutes",
+                                "spawnTimeForAll": "13hr 20min"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "nodes": [
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Gold",
+                                "goalPoints": "103",
+                                "poolSize": "103",
+                                "collectChance": "1%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            },
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "12",
+                                "poolSize": "12",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "90",
+                                "poolSize": "79",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "10 minutes",
+                                "spawnTimeForAll": "1hr 50min"
+                            },
+                            {
+                                "name": "League Battles",
+                                "goalPoints": "9",
+                                "poolSize": "9",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "No Minimum"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "55",
+                                "poolSize": "41",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "15 minutes",
+                                "spawnTimeForAll": "3hr 30min"
+                            },
+                            {
+                                "name": "Breed Dragons",
+                                "goalPoints": "13",
+                                "poolSize": "10",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 7min",
+                                "spawnTimeForAll": "3hr 21min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Hatch Eggs",
+                                "goalPoints": "12",
+                                "poolSize": "7",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "1hr 20min",
+                                "spawnTimeForAll": "6hr 40min"
+                            },
+                            {
+                                "name": "Feed Dragons",
+                                "goalPoints": "92",
+                                "poolSize": "55",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "11 minutes",
+                                "spawnTimeForAll": "6hr 47min"
+                            }
+                        ]
+                    },
+                    {
+                        "missions": [
+                            {
+                                "name": "Battle Dragons",
+                                "goalPoints": "15",
+                                "poolSize": "15",
+                                "collectChance": "100%",
+                                "spawnTimeForOne": "Instant",
+                                "spawnTimeForAll": "1 day 1 hrs"
+                            },
+                            {
+                                "name": "Collect Food",
+                                "goalPoints": "56",
+                                "poolSize": "17",
+                                "collectChance": "10%",
+                                "spawnTimeForOne": "21 minutes",
+                                "spawnTimeForAll": "13hr 39min"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
