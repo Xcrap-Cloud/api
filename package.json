@@ -1,6 +1,6 @@
 {
   "name": "@xcrap/api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Xcrap API Client is a package for the Xcrap Cloud service, designed for communicating with the API and handling authentication, management, and execution of scrapers and clients.",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
