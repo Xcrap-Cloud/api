@@ -1,11 +1,12 @@
 import { AxiosInstance } from "axios"
 
 import { ExecuteOneDynamicScraperResponse } from "./interfaces/execute-one-dynamic-response"
-import { FindOneScraperResponse } from "./interfaces/find-one-response"
 import { ExecuteOneScraperResponse } from "./interfaces/execute-one-response"
-import { CreateScraperResponse } from "./interfaces/create-response"
 import { FindManyScrapersResponse } from "./interfaces/find-many-response"
 import { PaginateOptions } from "../common/interfaces/paginate-options"
+import { FindOneScraperResponse } from "./interfaces/find-one-response"
+import { CreateScraperResponse } from "./interfaces/create-response"
+import { UpdateScraperResponse } from "./interfaces/update-scraper"
 import { Scraper } from "./scraper-entity"
 
 type ParsingModelField = {
@@ -125,7 +126,7 @@ export class ScrapersService {
     }
 
     async update(id: string, data: UpdateScraperOptions) {
-        const response = await this.api.patch(`/scrapers/${id}`, data)
+        const response = await this.api.patch<UpdateScraperResponse>(`/scrapers/${id}`, data)
         const responseData = response.data
 
         return new Scraper(

@@ -1,8 +1,9 @@
 import { AxiosInstance } from "axios"
 
 import { ExecuteOneScraperResponse } from "./interfaces/execute-one-response"
-import { UpdateScraperOptions } from "./scrapers-service"
+import { UpdateScraperResponse } from "./interfaces/update-scraper"
 import { ParsingModel } from "./interfaces/find-many-response"
+import { UpdateScraperOptions } from "./scrapers-service"
 
 export type ScraperMetadata = {
     readonly createdAt: string
@@ -28,7 +29,7 @@ export class Scraper {
     }
 
     async update(data: UpdateScraperOptions) {
-        const response = await this.api.patch(`/scrapers/${this.id}`, data)
+        const response = await this.api.patch<UpdateScraperResponse>(`/scrapers/${this.id}`, data)
         const responseData = response.data
 
         this.metadata = {
