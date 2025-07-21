@@ -1,10 +1,11 @@
 import { AxiosInstance } from "axios"
 
-import { CreateClientResponse } from "./interfaces/create-client-response"
+import { UpdateClientResponse } from "./interfaces/update-client-response"
 import { FindManyClientsResponse } from "./interfaces/find-many-response"
 import { PaginateOptions } from "../common/interfaces/paginate-options"
+import { FindOneClientResponse } from "./interfaces/find-one-response"
+import { CreateClientResponse } from "./interfaces/create-response"
 import { Client } from "./client-entity"
-import { UpdateClientResponse } from "./interfaces/update-client-response"
 
 export type CreateClientOptions = {
     name: string
@@ -35,8 +36,20 @@ export class ClientsService {
     }
 
     async findOne(id: string) {
-        const response = await this.api.get(`/clients/${id}`)
-        return response.data
+        const response = await this.api.get<FindOneClientResponse>(`/clients/${id}`)
+        const responseData = response.data
+
+        return new Client(
+            this.api,
+            responseData.id,
+            responseData.ownerId,
+            {
+                name: responseData.name,
+                description: responseData.description,
+                createdAt: responseData.createdAt,
+                updatedAt: responseData.updatedAt
+            }
+        )
     }
 
     async findMany({ page, perPage }: PaginateOptions = {}) {

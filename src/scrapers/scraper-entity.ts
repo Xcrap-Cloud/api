@@ -18,7 +18,7 @@ export class Scraper {
         readonly clientId: string,
         public ownerId: string,
         public parsingModel: ParsingModel,
-        public defaultUrl: string | undefined,
+        public defaultUrl: string | null,
         public metadata: ScraperMetadata,
     ) {}
 

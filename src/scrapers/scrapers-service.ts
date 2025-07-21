@@ -1,7 +1,9 @@
 import { AxiosInstance } from "axios"
 
 import { ExecuteOneDynamicScraperResponse } from "./interfaces/execute-one-dynamic-response"
+import { FindOneScraperResponse } from "./interfaces/find-one-response"
 import { ExecuteOneScraperResponse } from "./interfaces/execute-one-response"
+import { CreateScraperResponse } from "./interfaces/create-response"
 import { FindManyScrapersResponse } from "./interfaces/find-many-response"
 import { PaginateOptions } from "../common/interfaces/paginate-options"
 import { Scraper } from "./scraper-entity"
@@ -45,7 +47,7 @@ export class ScrapersService {
     constructor(private readonly api: AxiosInstance) {}
 
     async create(data: CreateScraperOptions) {
-        const response = await this.api.post("/scrapers", data)
+        const response = await this.api.post<CreateScraperResponse>("/scrapers", data)
         const responseData = response.data
 
         return new Scraper(
@@ -65,7 +67,7 @@ export class ScrapersService {
     }
 
     async findOne(id: string) {
-        const response = await this.api.get(`/scrapers/${id}`)
+        const response = await this.api.get<FindOneScraperResponse>(`/scrapers/${id}`)
         const data = response.data
 
         return new Scraper(
@@ -84,13 +86,13 @@ export class ScrapersService {
         )
     }
 
-    async executeOne<T extends any>(id: string): Promise<ExecuteOneScraperResponse<T>> {
-        const response = await this.api.post(`/scrapers/${id}/execute`)
+    async executeOne<T extends any>(id: string) {
+        const response = await this.api.post<ExecuteOneScraperResponse<T>>(`/scrapers/${id}/execute`)
         return response.data
     }
 
-    async executeOneDynamic<T extends any>(data: ExecuteOneDynamicScraperOptions): Promise<ExecuteOneDynamicScraperResponse<T>> {
-        const response = await this.api.post("/scrapers/dynamic/execute", data)
+    async executeOneDynamic<T extends any>(data: ExecuteOneDynamicScraperOptions) {
+        const response = await this.api.post<ExecuteOneDynamicScraperResponse<T>>("/scrapers/dynamic/execute", data)
         return response.data
     }
 
