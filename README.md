@@ -61,7 +61,7 @@ import { Xcrap, ClientType } from "@xcrap/api"
 
 	const client = await xcrap.clients.create({
 		name: "A Cool Client",
-		description: "A description for my Cool Client", // optional
+		description: "A description for my Cool Client.", // optional
 		type: ClientType.Axios // Check if the type is actually available for the pointed server
 	})
 
@@ -93,7 +93,7 @@ const clients2 = await xcrap.clients.findMany({ page: 2, perPage: 20 })
 ```ts
 const updatedClient = await xcrap.clients.update("YOUR_CLIENT_ID", {
 	name: "Updated Cool Client",
-	description: "A updated description for my Cool Client",
+	description: "A updated description for my Cool Client.",
 	type: "got_scraping" // Again, check if the type is available for the pointed server
 })
 ```
@@ -103,7 +103,7 @@ const updatedClient = await xcrap.clients.update("YOUR_CLIENT_ID", {
 ```ts
 await client.update({
 	name: "Updated Cool Client",
-	description: "A updated description for my Cool Client",
+	description: "A updated description for my Cool Client.",
 	type: "got_scraping" // Again, check if the type is available for the pointed server
 })
 ```
@@ -242,7 +242,7 @@ const scrapers2 = await xcrap.scrapers.findMany({ page: 2, perPage: 20 })
 ```ts
 const updatedScraper = await xcrap.SCRAPERS.update("YOUR_SCAPER_ID", {
 	name: "Updated Cool Scraper",
-	description: "A updated description for my Cool Scraper",
+	description: "A updated description for my Cool Scraper.",
 	model: {
 		title: {
 			query: "title",
@@ -265,7 +265,7 @@ const updatedScraper = await xcrap.SCRAPERS.update("YOUR_SCAPER_ID", {
 ```ts
 await scraper.update({
 	name: "Updated Cool Scraper",
-	description: "A updated description for my Cool Scraper",
+	description: "A updated description for my Cool Scraper.",
 	model: {
 		title: {
 			query: "title",
